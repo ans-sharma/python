@@ -11,3 +11,5 @@ for iNum in range(iLow, iHigh+1):
         iNum = iNum//10
     if iSum == iTemp:
         print(iSum, end=',')
+
+#New
