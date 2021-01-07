@@ -1,4 +1,3 @@
-# Write a program in Python to verify whether the entered input is a number or not.
 value = input("Enter the value: ")
 flag = False
 for i in range(0, len(value)):
